@@ -26,3 +26,6 @@ If a user has chosen to be a host, they will be prompted to enter their informat
   <li> Ruby </li>
   <li> Javascript </li>
 </ul>
+
+## Models and ERD
+<img src="assets/proj4ERD.pdf">

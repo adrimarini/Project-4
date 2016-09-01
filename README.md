@@ -29,3 +29,7 @@ If a user has chosen to be a host, they will be prompted to enter their informat
 
 ## Models and ERD
 ![Project 4 ERD/MODELS](assets/proj4ERD.pdf)
+
+## Wireframes 
+
+![Wireframes](assets/project4-wireframe.pdf) 

@@ -9,7 +9,7 @@
 ![](http://i.giphy.com/3o7qDNLF8D2Lqe8GGc.gif)
 
 ### Concept:
-The idea of this app is a play of couch-surfing. When a user enters the site, they will decide if they want to be a 'Host' or 'Looking to be hosted'. If they chose the 'Host' option, then the user would be looking to open their home to a traveler looking for a place to stay. As a Host, they have the power to specify how long they want to open their doors to the world for.
+The idea of this app is a play off couch-surfing. When a user enters the site, they will decide if they want to be a 'Host' or 'Looking to be hosted'. If they choose the 'Host' option, then the user would be looking to open their home to a traveler looking for a place to stay. As a Host, they have the power to specify how long they want to open their doors to the world for.
 <br>
 If a user chose the 'Looking to be hosted' option, they are most likely a traveler looking for a place to crash for a short amount of time.
 

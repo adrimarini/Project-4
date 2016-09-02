@@ -13,18 +13,19 @@ If the user is looking to be hosted, they will be directed to a map view, where 
 If a user has chosen to be a host, they will be prompted to enter their information about the location in which they are hoping to have visitors at.
 
 ## Technologies
-### RAP STACK
+### MEAN STACK
 <ul>
-  <li> Rails </li>
+  <li> MongoDB </li>
+  <li> Express </li>
   <li> Angular </li>
-  <li> PostgreSQL </li>
-  <li> Bootstrap </li>
+  <li> Node </li>
   <li> Google Maps Api </li>
 </ul>
 ###Languages
 <ul>
-  <li> Ruby </li>
+  <li> HTML </li>
   <li> Javascript </li>
+  <li> CSS <li>
 </ul>
 
 ## Models and ERD
@@ -33,3 +34,6 @@ If a user has chosen to be a host, they will be prompted to enter their informat
 ## Wireframes 
 
 ![Wireframes](assets/project4-wireframe.pdf) 
+
+## Trello
+https://trello.com/b/csYRPHKY/project-4

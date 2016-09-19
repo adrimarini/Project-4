@@ -1,7 +1,9 @@
 # Project-4
 ## Description
 
-URL: https://adrimarini.github.io/Project4-frontend/#/
+URLs: 
+frontend: https://adrimarini.github.io/Project4-frontend/#/
+backend: https://github.com/adrimarini/Project4-api
 
 ### Summary:
 <i> Traveling abroad? Looking for a place to stay? This app is a way to find a safe pad to crash at when in a foreign place- and maybe even a way to make a new freind! With the option to open your home to other women traveling, or the option to search for a host, this app makes adventuring cheap and memorable! </i>
